@@ -3,7 +3,7 @@
  ** Author: Jason Goldfine-Middleton
  ** Date: 10/24/15
  ** Description: Header for a simple templated class implementing a
- **              stack.  As  Requires C++11 for compilation.
+ **              stack.  Requires C++11 for compilation.
  *********************************************************************/
 
 #ifndef STACK_H
