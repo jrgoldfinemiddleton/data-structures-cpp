@@ -1,2 +1,2 @@
 # data-structures-cpp
-Data Structures Coded in C++11
+data structures coded in c++11
